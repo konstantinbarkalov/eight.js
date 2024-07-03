@@ -1,0 +1,19 @@
+{
+  "name": "eight.js",
+  "version": "0.0.0",
+  "type": "module",
+  "description": "Abstact library to generate and work with drum-maschine-alike patterns",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "npx mocha test/**/*.test.js"
+  },
+
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "chai": "^5.1.1",
+    "mocha": "^10.6.0"
+  }
+}
