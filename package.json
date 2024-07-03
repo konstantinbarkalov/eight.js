@@ -10,6 +10,16 @@
 
   "author": "",
   "license": "ISC",
+  "keywords": [
+    "music",
+    "pattern",
+    "rhythm",
+    "sequence",
+    "generator",
+    "midi",
+    "automation",
+    "events"
+  ],
   "dependencies": {
   },
   "devDependencies": {
