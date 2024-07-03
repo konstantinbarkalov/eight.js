@@ -20,7 +20,7 @@ export function generatePattern() {
   handmadeKernel.values[96] = 0.1;
   // handmadeKernel.logInfo('handmadeKernel');
 
-  const ccced = swooshed.ccc(handmadeKernel);
+  const ccced = swooshed.circularConvolve(handmadeKernel);
   // ccced.logInfo('ccced');
 
   const unity = MetaPattern.prefilled(2 ** 7);
